@@ -1,0 +1,338 @@
+reaction,name,lb,ub
+34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,0.0,1000.0
+ACACT1r,Acetyl-CoA C-acetyltransferase,-1000.0,1000.0
+ACCOAL,Acetate-CoA ligase (ADP-forming),0.0,1000.0
+ACGK,Acetylglutamate kinase,0.0,1000.0
+ACITL,ATP-Citrate lyase,0.0,1000.0
+ACODA,Acetylornithine deacetylase,0.0,1000.0
+ACP1_FMN,Acid phosphatase (FMN),0.0,1000.0
+ACPS,Acyl Carrier Protein Synthase,0.0,1000.0
+ACS2,Acetyl-CoA synthase (propionate),0.0,1000.0
+ACt2r,Acetate reversible transport via proton symport,0.0,1000.0
+ADA,Adenosine deaminase,0.0,1000.0
+ADADir,Deoxycytidine kinase,0.0,1000.0
+ADD,Adenine deaminase,0.0,1000.0
+ADK1,Adenylate kinase,-1000.0,1000.0
+ADK3,Adentylate kinase (GTP),-1000.0,1000.0
+ADK4,Adentylate kinase (ITP),-1000.0,1000.0
+ADKd,Adenylate kinase (d form),-1000.0,1000.0
+ADMDC,Adenosylmethionine decarboxylase,0.0,1000.0
+ADNCYC,Adenylate cyclase,0.0,1000.0
+ADNK1,Adenosine kinase,0.0,1000.0
+ADPRDP,ADPribose diphosphatase,0.0,1000.0
+ADPT,Adenine phosphoribosyltransferase,0.0,1000.0
+ADSK,Adenylyl-sulfate kinase,0.0,1000.0
+ADSL1r,Adenylsuccinate lyase,-1000.0,1000.0
+ADSL2r,Adenylosuccinate lyase,-1000.0,1000.0
+AGPR,N-acetyl-g-glutamyl-phosphate reductase,-1000.0,1000.0
+AICART,Phosphoribosylaminoimidazolecarboxamide formyltransferase,-1000.0,1000.0
+AIRCr,Phosphoribosylaminoimidazole carboxylase,-1000.0,1000.0
+ALCD1,Alcohol dehydrogenase (methanol),-1000.0,1000.0
+ALCD2ir,Alcohol dehydrogenase  reverse rxn  acetaldehyde   ethanol ,-1000.0,1000.0
+ALCD2x,Alcohol dehydrogenase (ethanol),-1000.0,1000.0
+ALCD2y,"Alcohol dehydrogenase (ethanol, NADP)",-1000.0,1000.0
+ALDD1,Aldehyde dehydrogenase  formaldehyde  NAD ,0.0,1000.0
+ALDD2x,"Aldehyde dehydrogenase (acetaldehyde, NAD)",0.0,1000.0
+ALDD2y,"Aldehyde dehydrogenase (acetaldehyde, NADP)",0.0,1000.0
+ALDD4,"Aldehyde dehydrogenase (butanal, NAD)",0.0,1000.0
+ALKP,Alkaline phosphatase,0.0,1000.0
+ALLTAHr,Allantoate amidinohydrolase  reversible,-1000.0,1000.0
+ALLTAMH,Allantoate amidohydrolase,0.0,1000.0
+ALPHNH,Allophanate hydrolase,0.0,1000.0
+AMPN,AMP nucleosidase,0.0,1000.0
+ATPHs,ATP amine hydrolysis (spontaneous),0.0,1000.0
+ATPPRT,ATP phosphoribosyltransferase,0.0,1000.0
+BNOCA,BNOCA,0.0,1000.0
+BTCOARx,Butyryl-coA reductase (NADH),0.0,1000.0
+CBMKr,Carbamate kinase,-1000.0,1000.0
+CDDTPP,DTTP cytidine 5'-phosphotransferase ,-1000.0,1000.0
+CHORM,Chorismate mutase,0.0,1000.0
+CPK1,Adenylate kinase,-1000.0,1000.0
+CSND,Cytosine deaminase,0.0,1000.0
+CTPS1,CTP synthase  NH3 ,0.0,1000.0
+CYTD,Cytidine deaminase,0.0,1000.0
+CYTDK1,ATP:cytidine 5'-phosphotransferase,0.0,1000.0
+CYTDK1_1,Cytidine kinase (ATP),0.0,1000.0
+CYTDK2,Cytidine kinase (GTP),0.0,1000.0
+CYTDK2_1,Cytidine kinase (GTP),0.0,1000.0
+CYTK1,Cytidylate kinase (CMP),-1000.0,1000.0
+CYTK11_1,"Cytidylate kinase (dCMP,dGTP)",-1000.0,1000.0
+CYTK2,Cytidylate kinase (dCMP),-1000.0,1000.0
+CYTK2_1,Adenylate kinase,-1000.0,1000.0
+DACTPP,DATP cytidine 5'-phosphotransferase ,0.0,1000.0
+DADA,Deoxyadenosine deaminase,0.0,1000.0
+DADK,Deoxyadenylate kinase,-1000.0,1000.0
+DADNK,Deoxyadenosine kinase,0.0,1000.0
+DAUPP,DATP uridine 5'-phosphotransferase ,0.0,1000.0
+DCMPDA,DCMP deaminase,0.0,1000.0
+DCPP,DCTP cytidine 5'-phosphotransferase ,0.0,1000.0
+DCYTD,Deoxycytidine deaminase,0.0,1000.0
+DGK1,Deoxyguanylate kinase (dGMP:ATP),-1000.0,1000.0
+DGNSK,Deoxyguanosine kinase,0.0,1000.0
+DGUPP,DGTP uridine 5'-phosphotransferase ,0.0,1000.0
+DHAD2,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",0.0,1000.0
+DHAK,Dihydroxyacetone kinase,0.0,1000.0
+DHDPRx_r,Dihydrodipicolinate reductase (NADH) reversible,0.0,1000.0
+DHFR,Dihydrofolate reductase,-1000.0,1000.0
+DHNPA_1,Dihydroneopterin aldolase,0.0,1000.0
+DHPM1,"Dihydropyrimidinase (5,6-dihydrouracil)",0.0,1000.0
+DMATT,Dimethylallyltranstransferase,0.0,1000.0
+DNADDP,Deamino-NAD+ nucleotidohydrolase,0.0,1000.0
+DPCOAK,Dephospho-CoA kinase,0.0,1000.0
+DPCOAK_1,Dephospho-CoA kinase,0.0,1000.0
+DRBK_1,Deoxyribokinase,0.0,1000.0
+DTUPP,DTTP uridine 5'-phosphotransferase ,0.0,1000.0
+DUCYTP,DUTP cytidine 5'-phosphotransferase ,0.0,1000.0
+DURAD,Dihydrouracil dehydrogenase (NADP),-1000.0,1000.0
+DURADx,Dihydrouracil dehydrogenase (NAD),-1000.0,1000.0
+DURIK1_1,Deoxyuridine kinase (ATP:Deoxyuridine),0.0,1000.0
+DUTPDP,DUTP diphosphatase,0.0,1000.0
+DUUPP,DUTP uridine 5'-phosphotransferase ,0.0,1000.0
+FACOAL1821,Linoleic acid:CoA ligase (AMP-forming),0.0,1000.0
+FADRx2,FAD reductase,0.0,1000.0
+FAS180,Fatty acid synthase  n C180 ,0.0,1000.0
+FAS181,Fatty acid synthase  n C181 ,0.0,1000.0
+FE2abc,Iron (II) transport via ABC system,0.0,1000.0
+FE2t,Iron  II  transport,0.0,1000.0
+FE3abc,Iron (III) transport via ABC system,0.0,1000.0
+FEROc,Ferroxidase,0.0,1000.0
+FGFT_1,FGFT_1,0.0,1000.0
+FMNAT,FMN adenylyltransferase,0.0,1000.0
+FORAMD,FORAMD,0.0,1000.0
+FORt,Formate transport via diffusion,-1000.0,0.0
+FORt2,Formate transport in via proton symport,0.0,1000.0
+FPRA,R01195,0.0,1000.0
+FTCD,Formimidoyltransferase cyclodeaminase reversible,0.0,1000.0
+FTHFD,Formyltetrahydrofolate deformylase,0.0,1000.0
+FTHFLi,Formate-tetrahydrofolate ligase,0.0,1000.0
+FUMAC,Fumarylacetoacetase,0.0,1000.0
+G3PD1ir,Glycerol 3 phosphate dehydrogenase  NAD ,-1000.0,1000.0
+G3PT,Glycerol-3-phosphatase,0.0,1000.0
+G5SADs,L-glutamate 5-semialdehyde dehydratase (spontaneous),0.0,1000.0
+G5SD,Glutamate-5-semialdehyde dehydrogenase,0.0,1000.0
+GALKr,Galactokinase,-1000.0,1000.0
+GALT,Galactose 1 phosphate uridylyltransferase,-1000.0,1000.0
+GALUi,UTP-glucose-1-phosphate uridylyltransferase (irreversible),0.0,1000.0
+GAPD,Glyceraldehyde-3-phosphate dehydrogenase,-1000.0,1000.0
+GAPDi_nadp,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating),0.0,1000.0
+GARFT,Phosphoribosylglycinamide formyltransferase,-1000.0,1000.0
+GART,GAR transformylase-T,0.0,1000.0
+GCALDD,Glycolaldehyde dehydrogenase,0.0,1000.0
+GD3P2,GD3P2,0.0,1000.0
+GDPDPK,GDP diphosphokinase,0.0,1000.0
+GDPMNP,GDP-mannose phyrophosphatase,0.0,1000.0
+GDPTPDP,Guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase,0.0,1000.0
+GK1,Guanylate kinase (GMP:ATP),-1000.0,1000.0
+GK2,Guanylate kinase  GMPdATP ,-1000.0,1000.0
+GLYCL,Glycine Cleavage System,0.0,1000.0
+GLYCLTDx,Glycolate dehydrogenase (NAD),0.0,1000.0
+GLYCLTDy,Glycolate dehydrogenase (NADP),0.0,1000.0
+GLYCL_2,"Glycine cleavage system, cytosol",0.0,1000.0
+GLYO1,Glycine oxidase,0.0,1000.0
+GRTT,Geranyltranstransferase,0.0,1000.0
+GTHOr,Glutathione oxidoreductase,-1000.0,1000.0
+GTHPi,Glutathione peridoxase,0.0,1000.0
+GTPDPDP,"Guanosine-5'-triphosphate,3'-diphosphate diphosphatase",0.0,1000.0
+GTPDPK_1,ATP:GTP 3'-diphosphotransferase,0.0,1000.0
+GTPHs,GTP amine hydrolysis (spontaneous),0.0,1000.0
+GUACYC,Guanylate cyclase,0.0,1000.0
+GUAPRT,Guanine phosphoribosyltransferase,0.0,1000.0
+GUAt2r,Guanine reversible transport via proton symport,0.0,1000.0
+H2SO,Hydrogen sulfide oxidation,0.0,1000.0
+HACD1i,3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA),0.0,1000.0
+HEMEti,Heme transport via ABC system,0.0,1000.0
+HEX4,Hexokinase (D-mannose:ATP),0.0,1000.0
+HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing ,0.0,1000.0
+HISTP,Histidinol-phosphatase,0.0,1000.0
+HMGCOAS,Hydroxymethylglutaryl CoA synthase,-1000.0,0.0
+HMGL_2,HMGL_2,0.0,1000.0
+HXAND,Hypoxanthine dehydrogenase,0.0,1000.0
+HXANt2r,Hypoxanthine reversible transport via proton symport,0.0,1000.0
+HXPRT,Hypoxanthine phosphoribosyltransferase (Hypoxanthine),0.0,1000.0
+HYPOE,Hypothetical enyme,0.0,1000.0
+HYXNt,Hypoxanthine transport,-1000.0,1000.0
+ICDHx,Isocitrate dehydrogenase (NAD),-1000.0,1000.0
+ICDHyr,Isocitrate dehydrogenase (NADP),-1000.0,1000.0
+IGPDH,Imidazoleglycerol-phosphate dehydratase,0.0,1000.0
+IMPC,IMP cyclohydrolase,-1000.0,1000.0
+INOSTO,Myo-Inositol:oxygen oxidoreductase,-1000.0,1000.0
+IPDDI,Isopentenyl-diphosphate D-isomerase,-1000.0,1000.0
+IPMD,3-isopropylmalate dehydrogenase,0.0,1000.0
+IPPMIa,3-isopropylmalate dehydratase,-1000.0,1000.0
+IPPMIb,2-isopropylmalate hydratase,-1000.0,1000.0
+IPPS,2-isopropylmalate synthase,0.0,1000.0
+KAS13,B-ketoacyl synthetase (octadecanoate),0.0,1000.0
+KAS17,B-ketoacyl synthetase (n-C18:1),0.0,1000.0
+KAS7,B-ketoacyl synthetase (n-C16:1),0.0,1000.0
+KAS8,"B-ketoacyl synthetase (palmitate, n-C16:0)",0.0,1000.0
+KAT1,3-ketoacyl-CoA thiolase,0.0,1000.0
+MACACI,Maleylacetoacetate isomerase,0.0,1000.0
+MAN1PT,Mannose 1 phosphate guanylyltransferase,0.0,1000.0
+MAN1PT2,Mannose-1-phosphate guanylyltransferase (GDP),0.0,1000.0
+MCD,Malonyl-CoA Decarboxylase cytoplasmic,0.0,1000.0
+MDRPD,5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase,0.0,1000.0
+MEHLER,Mehler reaction,0.0,1000.0
+MGSA,Methylglyoxal synthase,0.0,1000.0
+MGt5,Magnesium transport in/out via permease (no H+),-1000.0,1000.0
+MN6PP,Mannose 6-phosphate phosphatase,0.0,1000.0
+MOHMT,3-methyl-2-oxobutanoate hydroxymethyltransferase,0.0,1000.0
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,-1000.0,1000.0
+MTHFD,Methylenetetrahydrofolate dehydrogenase (NADP),-1000.0,1000.0
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD ,0.0,1000.0
+MTRI,5-methylthioribose-1-phosphate isomerase,-1000.0,1000.0
+MTRK,5-methylthioribose kinase,0.0,1000.0
+NACODA,N-acetylornithine deacetylase,0.0,1000.0
+NADDP,NAD diphosphatase,0.0,1000.0
+NADHPO,NADH peroxidase,0.0,1000.0
+NADK,NAD kinase,0.0,1000.0
+NAPRT,NAPRTase (rev),-1000.0,1000.0
+NARK,"Nitrite transport, extracellular",-1000.0,1000.0
+NAabc,NAabc,0.0,1000.0
+NAabcO,Sodium transport out via ABC system,0.0,1000.0
+NAt3_1,Sodium proton antiporter  HNA is 11 ,0.0,1000.0
+NAt6,NAt6,0.0,1000.0
+NCAMUP,Nicotinamide acid uptake,-1000.0,1000.0
+NDP3,Nucleoside diphosphatase  GDP ,0.0,1000.0
+NDP7,Nucleoside diphosphatase  UDP ,0.0,1000.0
+NDP8,Nucleoside-diphosphatase (dUDP),0.0,1000.0
+NDPK1,Nucleoside-diphosphate kinase (ATP:GDP),-1000.0,1000.0
+NDPK2,Nucleoside-diphosphate kinase (ATP:UDP),-1000.0,1000.0
+NDPK3,Nucleoside-diphosphate kinase (ATP:CDP),-1000.0,1000.0
+NDPK4,Nucleoside-diphosphate kinase (ATP:dTDP),-1000.0,1000.0
+NDPK5,Nucleoside-diphosphate kinase (ATP:dGDP),-1000.0,1000.0
+NDPK6,Nucleoside-diphosphate kinase (ATP:dUDP),-1000.0,1000.0
+NDPK7,Nucleoside-diphosphate kinase (ATP:dCDP),-1000.0,1000.0
+NDPK8,Nucleoside-diphosphate kinase (ATP:dADP),-1000.0,1000.0
+NDPK9,Nucleoside diphosphate kinase  ATPIDP ,-1000.0,1000.0
+NMNHYD_1,Nicotinamide ribonucleotide phosphohydrolase,0.0,1000.0
+NMNS,NMN synthetase,0.0,1000.0
+NNAM,Nicotinamidase,0.0,1000.0
+NNATr,Nicotinate-nucleotide adenylyltransferase,-1000.0,1000.0
+NO3abc,NO3abc,0.0,1000.0
+NOX,NADH oxidase,0.0,1000.0
+NP1_1,Nucleotide phosphatase,-1000.0,1000.0
+NT5C,5'-nucleotidase,0.0,1000.0
+NTD10,5'-nucleotidase (XMP),0.0,1000.0
+NTD11,5'-nucleotidase (IMP),0.0,1000.0
+NTD1_1,5'-nucleotidase (dUMP),0.0,1000.0
+NTD2,5'-nucleotidase (UMP),0.0,1000.0
+NTD3,5'-nucleotidase (dCMP),0.0,1000.0
+NTD4,5'-nucleotidase (CMP),0.0,1000.0
+NTD5,5'-nucleotidase (dTMP),0.0,1000.0
+NTD6,5'-nucleotidase (dAMP),0.0,1000.0
+NTD7,5'-nucleotidase (AMP),0.0,1000.0
+NTD8,5'-nucleotidase (dGMP),0.0,1000.0
+NTD9,5'-nucleotidase (GMP),0.0,1000.0
+NTP1,Nucleoside-triphosphatase (ATP),0.0,1000.0
+NTP10,Nucleoside-triphosphatase (ITP),0.0,1000.0
+NTP3,Nucleoside-triphosphatase (GTP),0.0,1000.0
+NTP5,Nucleoside-triphosphatase (CTP),0.0,1000.0
+NTP7,Nucleoside-triphosphatase (UTP),0.0,1000.0
+NTPP1,Nucleoside triphosphate pyrophosphorylase (dgtp),0.0,1000.0
+NTPP11,Nucleoside triphosphate pyrophosphorylase (xtp),0.0,1000.0
+NTPP2,Nucleoside triphosphate pyrophosphorylase (gtp),0.0,1000.0
+NTPP3,Nucleoside triphosphate pyrophosphorylase (dctp),0.0,1000.0
+NTPP4,Nucleoside triphosphate pyrophosphorylase (ctp),0.0,1000.0
+NTPP5,Nucleoside triphosphate pyrophosphorylase (datp),0.0,1000.0
+NTPP7,Nucleoside triphosphate pyrophosphorylase (dttp),0.0,1000.0
+NTPP8,Nucleoside triphosphate pyrophosphorylase (utp),0.0,1000.0
+NTPP9,Nucleoside triphosphate pyrophosphorylase (itp),0.0,1000.0
+NTRIR2x,Nitrite Reductase (NADH),0.0,1000.0
+NTRIR2y,Nitrite Reductase (NADPH),0.0,1000.0
+OMCDC,2-Oxo-4-methyl-3-carboxypentanoate decarboxylation,0.0,1000.0
+OMPDC,Orotidine-5'-phosphate decarboxylase,0.0,1000.0
+ORNDC,Ornithine Decarboxylase,0.0,1000.0
+ORPT,Orotate phosphoribosyltransferase,-1000.0,1000.0
+PAPSSH,PAPSSH,-1000.0,1000.0
+PC,Pyruvate carboxylase,0.0,1000.0
+PDE1,"3',5'-cyclic-nucleotide phosphodiesterase",0.0,1000.0
+PDE4,"3',5'-cyclic-nucleotide phosphodiesterase",0.0,1000.0
+PDH,Pyruvate dehydrogenase,0.0,1000.0
+PFL,Pyruvate formate lyase,0.0,1000.0
+PGL,6-phosphogluconolactonase,0.0,1000.0
+PGLYCP,Phosphoglycolate phosphatase,0.0,1000.0
+PGLYCP_1,Phosphoglycolate phosphatase,0.0,1000.0
+PIabc,Phosphate transport via ABC system,0.0,1000.0
+PIt2r,Phosphate reversible transport via symport,0.0,1000.0
+PIt7,Phosphate transport in/out via three Na+ symporter,0.0,1000.0
+PMANM,Phosphomannomutase,-1000.0,1000.0
+PNP_1,Purine-nucleoside phosphorylase,-1000.0,1000.0
+PPA,Inorganic diphosphatase,0.0,1000.0
+PPANA,Inorganic diphosphatase (sodium translocation),0.0,1000.0
+PPCDC,Phosphopantothenoylcysteine decarboxylase,0.0,1000.0
+PPDK,"Pyruvate,phosphate dikinase.",0.0,1000.0
+PPGPPDP,"Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase",0.0,1000.0
+PPK,Polyphosphate kinase,0.0,1000.0
+PPNDH,Prephenate dehydratase,0.0,1000.0
+PPNDH2,PPNDH2,-1000.0,1000.0
+PPS,Phosphoenolpyruvate synthase,0.0,1000.0
+PRAGSr,Phosphoribosylglycinamide synthase,-1000.0,1000.0
+PRAMPC,Phosphoribosyl-AMP cyclohydrolase,0.0,1000.0
+PRAMPC_1,Phosphoribosyl AMP cyclohydrolase,0.0,1000.0
+PRATPP,Phosphoribosyl-ATP pyrophosphatase,0.0,1000.0
+PRMICI,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase,-1000.0,1000.0
+PRPPS,Phosphoribosylpyrophosphate synthetase,-1000.0,1000.0
+PTPATi,Pantetheine-phosphate adenylyltransferase,0.0,1000.0
+PUNP1,Purine-nucleoside phosphorylase (Adenosine),-1000.0,1000.0
+PUNP1_1,Purine-nucleoside phosphorylase (Adenosine),-1000.0,1000.0
+PUNP3,Purine-nucleoside phosphorylase (Guanosine),-1000.0,1000.0
+PUNP3_1,Purine-nucleoside phosphorylase (Guanosine),0.0,1000.0
+PUNP5,Purine-nucleoside phosphorylase (Inosine),-1000.0,1000.0
+PUNP5_1,Purine-nucleoside phosphorylase (Inosine),-1000.0,1000.0
+PUNP7,Purine-nucleoside phosphorylase (Xanthosine),-1000.0,1000.0
+PUNP7_1,Purine-nucleoside phosphorylase (Xanthosine),-1000.0,1000.0
+PYK2,Pyruvate kinase(2),0.0,1000.0
+PYK3,Pyruvate kinase(3),0.0,1000.0
+PYK4,Pyruvate kinase(4),0.0,1000.0
+PYK5,Pyruvate kinase(5),0.0,1000.0
+RBFK,Riboflavin kinase,0.0,1000.0
+RNDR1,Ribonucleoside-diphosphate reductase (ADP),0.0,1000.0
+RNDR2,Ribonucleoside-diphosphate reductase (GDP),0.0,1000.0
+RNDR3,Ribonucleoside-diphosphate reductase (CDP),0.0,1000.0
+RNDR4,Ribonucleoside-diphosphate reductase (UDP),0.0,1000.0
+RNTR1,Ribonucleoside triphosphate reductase  ATP ,0.0,1000.0
+RNTR2,Ribonucleoside triphosphate reductase  GTP ,0.0,1000.0
+RNTR3,Ribonucleoside triphosphate reductase  CTP ,0.0,1000.0
+RNTR4,Ribonucleoside triphosphate reductase  UTP ,0.0,1000.0
+SADT,Sulfate adenylyltransferase,0.0,1000.0
+SADT2,Sulfate adenyltransferase,0.0,1000.0
+SEAHCYSHYD_1,Se-Adenosylselenohomocysteine hydrolase,-1000.0,1000.0
+SO4t2,Sulfate transport in via proton symport,0.0,1000.0
+SPMS,Spermidine synthase,0.0,1000.0
+SUCCt2r,Succinate transport via proton symport,0.0,1000.0
+SULabc,Sulfate transport via ABC system,0.0,1000.0
+St,Sulfur diffusion,-1000.0,1000.0
+TDP,Thiamin pyrophosphatase,0.0,1000.0
+THIORDXi,Hydrogen peroxide reductase (thioredoxin),0.0,1000.0
+THMP,Thiamin phosphatase,0.0,1000.0
+THMtrbc,Thiamine transprot (passive - red blood cell),-1000.0,1000.0
+TMDK1_1,Thymidine kinase (ATP:thymidine),0.0,1000.0
+TMDPK,Thiamine diphosphokinase,0.0,1000.0
+TMDS,Thymidylate synthase,0.0,1000.0
+TPI,Triose-phosphate isomerase,-1000.0,1000.0
+TRDR,Thioredoxin reductase (NADPH),0.0,1000.0
+TRE6PP,Trehalose-phosphatase,0.0,1000.0
+UAGDP,UDP-N-acetylglucosamine diphosphorylase,0.0,1000.0
+UCPP,UTP cytidine 5'-phosphotransferase ,0.0,1000.0
+UDCTPP,DCTP uridine 5'-phosphotransferase ,0.0,1000.0
+UDPG4E,UDPglucose 4-epimerase,-1000.0,1000.0
+UDUPP,UTP uridine 5'-phosphotransferase ,0.0,1000.0
+UPPN,B-ureidopropionase,0.0,1000.0
+UPPRT,Uracil phosphoribosyltransferase,0.0,1000.0
+URAt,Uracil transport via facilated diffusion,-1000.0,1000.0
+URAt2,Uracil transport in via proton symport,0.0,1000.0
+UREA,Urease,0.0,1000.0
+UREASE,Urea carboxylase,-1000.0,1000.0
+URIDK2r,Uridylate kinase (dUMP),-1000.0,1000.0
+URIK1,Uridine kinase  ATPUridine ,0.0,1000.0
+URIK1_1,Uridine kinase (ATP:Uridine),0.0,1000.0
+URIK2,Uridine kinase (GTP:Uridine),0.0,1000.0
+URIK2_1,Uridine kinase (GTP:Uridine),0.0,1000.0
+URIK3,Uridine kinase (ITP:Uridine),0.0,1000.0
+URIK3_1,Uridine kinase (ITP:Uridine),0.0,1000.0
+XANt2,Xanthine transport in via proton symport,0.0,1000.0
+XANt3,XANt3,0.0,1000.0
+XPPT,Xanthine phosphoribosyltransferase,0.0,1000.0
+r0280,DATP:pyruvate O2-phosphotransferase Purine metabolism EC:2.7.1.40,0.0,1000.0
+EX_tsul_e,R_EX_tsul_e,-1000.0,1000.0
+ATPM,R_ATPM,0.0,1000.0
