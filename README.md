@@ -269,7 +269,7 @@ If you use this model, data, or code, please cite:
 > Stress. *International Journal of Molecular Sciences*, 2026.
 > (full citation to be updated upon publication)
 
-and this repository via its Zenodo DOI: `[DOI to be added upon release]`
+and this repository via its Zenodo DOI: https://doi.org/10.5281/zenodo.22767601
 
 ---
 
